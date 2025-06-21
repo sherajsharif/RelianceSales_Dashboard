@@ -4,6 +4,24 @@ A visually rich and insightful dashboard built using **Power BI** to monitor and
 
 ---
 
+## 🖼️ Dashboard Preview
+
+### 🔹 Dashboard View 1: KPI Summary & Brand Performance
+
+![Dashboard View 1](./dashboard1.png)
+
+*This view highlights key performance indicators (KPIs) such as revenue, profit, and returns compared to previous months, alongside product brand-wise sales data.*
+
+---
+
+### 🔹 Dashboard View 2: Regional & State-Level Analysis
+
+![Dashboard View 2](./dashboard2.png)
+
+*This section features a region-wise revenue heatmap and a state-wise transaction treemap, helping identify high-performing areas geographically.*
+
+---
+
 ## 📌 Summary
 
 This dashboard provides a consolidated view of Reliance SMART’s business performance through:
@@ -94,7 +112,8 @@ Smaller states include DF, Yucatan, Veracruz, and Guerrero.
 ## 📁 Files
 
 - `Reliance_Sales_Dashboard.pbix` *(Main Power BI file)*
-- `Screenshot.png` *(Visual overview of the dashboard)*
+- `dashboard1.png` *(KPI and Product data view)*
+- `dashboard2.png` *(Region and State visuals)*
 
 ---
 
